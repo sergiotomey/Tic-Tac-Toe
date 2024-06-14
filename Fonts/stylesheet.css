@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Arcade Interlaced';
+    src: url('ArcadeInterlaced.eot');
+    src: url('ArcadeInterlaced.eot?#iefix') format('embedded-opentype'),
+        url('ArcadeInterlaced.woff2') format('woff2'),
+        url('ArcadeInterlaced.woff') format('woff'),
+        url('ArcadeInterlaced.ttf') format('truetype'),
+        url('ArcadeInterlaced.svg#ArcadeInterlaced') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arcade Rounded';
+    src: url('ArcadeRounded.eot');
+    src: url('ArcadeRounded.eot?#iefix') format('embedded-opentype'),
+        url('ArcadeRounded.woff2') format('woff2'),
+        url('ArcadeRounded.woff') format('woff'),
+        url('ArcadeRounded.ttf') format('truetype'),
+        url('ArcadeRounded.svg#ArcadeRounded') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arcade Normal';
+    src: url('ArcadeNormal.eot');
+    src: url('ArcadeNormal.eot?#iefix') format('embedded-opentype'),
+        url('ArcadeNormal.woff2') format('woff2'),
+        url('ArcadeNormal.woff') format('woff'),
+        url('ArcadeNormal.ttf') format('truetype'),
+        url('ArcadeNormal.svg#ArcadeNormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
